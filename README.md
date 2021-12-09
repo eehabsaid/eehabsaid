@@ -1,6 +1,6 @@
 This is Ehab Al-Qabbani's website and this is a bit of copy about him.
 
-He is Application Architect, has been working for 14 years looking for development and skills enhancement through working for the companies in the software field.
+He is Application Architect, has been working for 17 years looking for development and skills enhancement through working for the companies in the software field.
 
 He studied Computer Science in Advanced Academy (Egypt) and proceeded to work in a fast upscale environment, delivering business solutions for the most reputable governmental and non-governmental organizations.
 
